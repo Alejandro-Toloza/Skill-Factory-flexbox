@@ -1,0 +1,85 @@
+.box1 {
+    display: flex;
+    align-items: flex-start;
+    border-style: solid;
+    border-color: rgb(2, 2, 2);
+  }
+
+.red { 
+    background-color: #F0223B;
+    flex-direction:row;
+    align-items: center;
+    width: 75%;
+    height: 100px;
+    border-style: solid;
+
+}
+
+.fucsia {
+    background-color: #FA23A9;
+    flex-direction: row;
+    width: 25%;
+    height: 100px;
+    border-style: solid;
+
+}
+
+
+.darkViolet {
+    background-color: #8D0E96;
+    width: 50%;
+    height: 220px;
+
+}
+
+.box2 {
+    border-color: rgb(2, 2, 2);
+    border-style: solid;
+    width: 100%;
+}
+
+.celest {
+    background-color: #14E3B5;
+    width: 100%;
+    height: 100px;
+    border-color: rgb(2, 2, 2);
+    border-style: solid;
+}
+
+.marine {
+    background-color: #15967A;
+    width: 100%;
+    height: 102px;
+    border-color: rgb(2, 2, 2);
+    border-style: solid;
+}
+
+.violet {
+    background-color: #D72BE3;
+    flex-direction:row;
+    align-items: center;
+    width: 50%;
+    height: 100px;
+    border-color: rgb(2, 2, 2);
+    border-style: solid;
+}
+
+.lightViolet {
+    background-color: #F34AFF;
+    flex-direction:row;
+    align-items: center;
+    width: 50%;
+    height: 100px;
+    border-color: rgb(2, 2, 2);
+    border-style: solid;
+}
+
+.lightGreen  {
+    background-color: #7BE32B;
+    flex-direction:row;
+    align-items: center;
+    width: 50%;
+    height: 100px;
+    border-color: rgb(2, 2, 2);
+    border-style: solid;
+}
